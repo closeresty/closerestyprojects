@@ -1,0 +1,5 @@
+﻿Public Class frmLibraryCard
+    Private Sub frmLibraryCard_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
+End Class

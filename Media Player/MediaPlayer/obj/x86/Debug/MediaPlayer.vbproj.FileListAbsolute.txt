@@ -1,0 +1,78 @@
+C:\Users\win7\AppData\Local\Temporary Projects\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Users\win7\AppData\Local\Temporary Projects\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Users\win7\AppData\Local\Temporary Projects\MediaPlayer\bin\Debug\MediaPlayer.xml
+C:\Users\win7\AppData\Local\Temporary Projects\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\win7\AppData\Local\Temporary Projects\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\win7\AppData\Local\Temporary Projects\MediaPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\win7\AppData\Local\Temporary Projects\MediaPlayer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\win7\AppData\Local\Temporary Projects\MediaPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\win7\AppData\Local\Temporary Projects\MediaPlayer\obj\x86\Debug\MediaPlayer.vbproj.ResolveComReference.cache
+C:\Users\win7\AppData\Local\Temporary Projects\MediaPlayer\obj\x86\Debug\MediaPlayer.Form1.resources
+C:\Users\win7\AppData\Local\Temporary Projects\MediaPlayer\obj\x86\Debug\MediaPlayer.Resources.resources
+C:\Users\win7\AppData\Local\Temporary Projects\MediaPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\win7\AppData\Local\Temporary Projects\MediaPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\win7\AppData\Local\Temporary Projects\MediaPlayer\obj\x86\Debug\MediaPlayer.exe
+C:\Users\win7\AppData\Local\Temporary Projects\MediaPlayer\obj\x86\Debug\MediaPlayer.xml
+C:\Users\win7\AppData\Local\Temporary Projects\MediaPlayer\obj\x86\Debug\MediaPlayer.pdb
+G:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\obj\x86\Debug\Interop.WMPLib.dll
+G:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.vbproj.ResolveComReference.cache
+G:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.exe
+G:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.xml
+G:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.pdb
+G:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+G:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+G:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.xml
+G:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+G:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+G:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.Resources.resources
+G:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.frmMediaPlayer.resources
+F:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\obj\x86\Debug\Interop.WMPLib.dll
+F:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.vbproj.ResolveComReference.cache
+F:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.exe
+F:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.xml
+F:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.pdb
+F:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+F:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+F:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.xml
+F:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+F:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+F:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.frmMediaPlayer.resources
+F:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.Resources.resources
+F:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\vb\Sample Programs\More Programs\MediaPlayer\MediaPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\vb\Sample Programs\VB_Net_Hands_On\Media Player\MediaPlayer\obj\x86\Debug\Interop.WMPLib.dll
+F:\vb\Sample Programs\VB_Net_Hands_On\Media Player\MediaPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\vb\Sample Programs\VB_Net_Hands_On\Media Player\MediaPlayer\obj\x86\Debug\MediaPlayer.vbproj.ResolveComReference.cache
+F:\vb\Sample Programs\VB_Net_Hands_On\Media Player\MediaPlayer\obj\x86\Debug\MediaPlayer.exe
+F:\vb\Sample Programs\VB_Net_Hands_On\Media Player\MediaPlayer\obj\x86\Debug\MediaPlayer.xml
+F:\vb\Sample Programs\VB_Net_Hands_On\Media Player\MediaPlayer\obj\x86\Debug\MediaPlayer.pdb
+F:\vb\Sample Programs\VB_Net_Hands_On\Media Player\MediaPlayer\bin\Debug\MediaPlayer.exe
+F:\vb\Sample Programs\VB_Net_Hands_On\Media Player\MediaPlayer\bin\Debug\MediaPlayer.pdb
+F:\vb\Sample Programs\VB_Net_Hands_On\Media Player\MediaPlayer\bin\Debug\MediaPlayer.xml
+F:\vb\Sample Programs\VB_Net_Hands_On\Media Player\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+F:\vb\Sample Programs\VB_Net_Hands_On\Media Player\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+F:\vb\Sample Programs\VB_Net_Hands_On\Media Player\MediaPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\vb\Sample Programs\VB_Net_Hands_On\Media Player\MediaPlayer\obj\x86\Debug\MediaPlayer.frmMediaPlayer.resources
+F:\vb\Sample Programs\VB_Net_Hands_On\Media Player\MediaPlayer\obj\x86\Debug\MediaPlayer.Resources.resources
+F:\vb\Sample Programs\VB_Net_Hands_On\Media Player\MediaPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\vb\Sample Programs\VB_Net_Hands_On\Media Player\MediaPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\POTOLIN\Downloads\Unais Projects\Media Player\MediaPlayer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\POTOLIN\Downloads\Unais Projects\Media Player\MediaPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\POTOLIN\Downloads\Unais Projects\Media Player\MediaPlayer\obj\x86\Debug\MediaPlayer.vbproj.ResolveComReference.cache
+C:\Users\POTOLIN\Downloads\Unais Projects\Media Player\MediaPlayer\obj\x86\Debug\MediaPlayer.exe
+C:\Users\POTOLIN\Downloads\Unais Projects\Media Player\MediaPlayer\obj\x86\Debug\MediaPlayer.xml
+C:\Users\POTOLIN\Downloads\Unais Projects\Media Player\MediaPlayer\obj\x86\Debug\MediaPlayer.pdb
+C:\Users\POTOLIN\Downloads\Unais Projects\Media Player\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Users\POTOLIN\Downloads\Unais Projects\Media Player\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Users\POTOLIN\Downloads\Unais Projects\Media Player\MediaPlayer\bin\Debug\MediaPlayer.xml
+C:\Users\POTOLIN\Downloads\Unais Projects\Media Player\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\POTOLIN\Downloads\Unais Projects\Media Player\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\POTOLIN\Downloads\Unais Projects\Media Player\MediaPlayer\obj\x86\Debug\MediaPlayer.frmMediaPlayer.resources
+C:\Users\POTOLIN\Downloads\Unais Projects\Media Player\MediaPlayer\obj\x86\Debug\MediaPlayer.Resources.resources
+C:\Users\POTOLIN\Downloads\Unais Projects\Media Player\MediaPlayer\obj\x86\Debug\MediaPlayer.vbproj.GenerateResource.Cache
